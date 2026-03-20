@@ -1,0 +1,944 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My ESPN Calendar//EN
+BEGIN:VEVENT
+UID:Notre Dame Fighting Irish_Wisconsin Badgers_2026-09-06T04:00Z
+SUMMARY:Notre Dame Fighting Irish @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20260906T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Western Illinois Leathernecks_Wisconsin Badgers_2026-09-12T04:00Z
+SUMMARY:Western Illinois Leathernecks @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20260912T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Eastern Michigan Eagles_Wisconsin Badgers_2026-09-19T04:00Z
+SUMMARY:Eastern Michigan Eagles @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20260919T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wisconsin Badgers_Penn State Nittany Lions_2026-09-26T04:00Z
+SUMMARY:Wisconsin Badgers @ Penn State Nittany Lions (Badgers Football (CFB))
+DTSTART:20260926T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Michigan State Spartans_Wisconsin Badgers_2026-10-03T04:00Z
+SUMMARY:Michigan State Spartans @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20261003T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wisconsin Badgers_UCLA Bruins_2026-10-17T04:00Z
+SUMMARY:Wisconsin Badgers @ UCLA Bruins (Badgers Football (CFB))
+DTSTART:20261017T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:USC Trojans_Wisconsin Badgers_2026-10-24T04:00Z
+SUMMARY:USC Trojans @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20261024T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wisconsin Badgers_Iowa Hawkeyes_2026-10-31T04:00Z
+SUMMARY:Wisconsin Badgers @ Iowa Hawkeyes (Badgers Football (CFB))
+DTSTART:20261031T040000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Rutgers Scarlet Knights_Wisconsin Badgers_2026-11-07T05:00Z
+SUMMARY:Rutgers Scarlet Knights @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20261107T050000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wisconsin Badgers_Maryland Terrapins_2026-11-14T05:00Z
+SUMMARY:Wisconsin Badgers @ Maryland Terrapins (Badgers Football (CFB))
+DTSTART:20261114T050000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Wisconsin Badgers_Purdue Boilermakers_2026-11-21T05:00Z
+SUMMARY:Wisconsin Badgers @ Purdue Boilermakers (Badgers Football (CFB))
+DTSTART:20261121T050000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Minnesota Golden Gophers_Wisconsin Badgers_2026-11-28T05:00Z
+SUMMARY:Minnesota Golden Gophers @ Wisconsin Badgers (Badgers Football (CFB))
+DTSTART:20261128T050000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Utah Jazz_2026-03-20T01:00Z
+SUMMARY:Milwaukee Bucks @ Utah Jazz (Bucks (NBA))
+DTSTART:20260320T010000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Phoenix Suns_2026-03-22T02:00Z
+SUMMARY:Milwaukee Bucks @ Phoenix Suns (Bucks (NBA))
+DTSTART:20260322T020000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_LA Clippers_2026-03-24T02:30Z
+SUMMARY:Milwaukee Bucks @ LA Clippers (Bucks (NBA))
+DTSTART:20260324T023000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Portland Trail Blazers_2026-03-26T02:00Z
+SUMMARY:Milwaukee Bucks @ Portland Trail Blazers (Bucks (NBA))
+DTSTART:20260326T020000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Antonio Spurs_Milwaukee Bucks_2026-03-28T19:00Z
+SUMMARY:San Antonio Spurs @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260328T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:LA Clippers_Milwaukee Bucks_2026-03-29T19:30Z
+SUMMARY:LA Clippers @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260329T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Dallas Mavericks_Milwaukee Bucks_2026-04-01T00:00Z
+SUMMARY:Dallas Mavericks @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260401T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Houston Rockets_2026-04-02T00:00Z
+SUMMARY:Milwaukee Bucks @ Houston Rockets (Bucks (NBA))
+DTSTART:20260402T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Boston Celtics_Milwaukee Bucks_2026-04-04T00:00Z
+SUMMARY:Boston Celtics @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260404T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Memphis Grizzlies_Milwaukee Bucks_2026-04-05T19:30Z
+SUMMARY:Memphis Grizzlies @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260405T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Brooklyn Nets_2026-04-07T23:30Z
+SUMMARY:Milwaukee Bucks @ Brooklyn Nets (Bucks (NBA))
+DTSTART:20260407T233000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Detroit Pistons_2026-04-08T23:00Z
+SUMMARY:Milwaukee Bucks @ Detroit Pistons (Bucks (NBA))
+DTSTART:20260408T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Brooklyn Nets_Milwaukee Bucks_2026-04-11T00:00Z
+SUMMARY:Brooklyn Nets @ Milwaukee Bucks (Bucks (NBA))
+DTSTART:20260411T000000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Bucks_Philadelphia 76ers_2026-04-12T22:00Z
+SUMMARY:Milwaukee Bucks @ Philadelphia 76ers (Bucks (NBA))
+DTSTART:20260412T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago White Sox_Milwaukee Brewers_2026-03-26T18:10Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260326T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago White Sox_Milwaukee Brewers_2026-03-28T23:10Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260328T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago White Sox_Milwaukee Brewers_2026-03-29T18:10Z
+SUMMARY:Chicago White Sox @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260329T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Tampa Bay Rays_Milwaukee Brewers_2026-03-30T23:40Z
+SUMMARY:Tampa Bay Rays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260330T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Tampa Bay Rays_Milwaukee Brewers_2026-03-31T23:40Z
+SUMMARY:Tampa Bay Rays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260331T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Tampa Bay Rays_Milwaukee Brewers_2026-04-01T17:40Z
+SUMMARY:Tampa Bay Rays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260401T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Kansas City Royals_2026-04-03T23:40Z
+SUMMARY:Milwaukee Brewers @ Kansas City Royals (Brewers (MLB))
+DTSTART:20260403T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Kansas City Royals_2026-04-04T20:10Z
+SUMMARY:Milwaukee Brewers @ Kansas City Royals (Brewers (MLB))
+DTSTART:20260404T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Kansas City Royals_2026-04-05T18:10Z
+SUMMARY:Milwaukee Brewers @ Kansas City Royals (Brewers (MLB))
+DTSTART:20260405T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Boston Red Sox_2026-04-06T22:45Z
+SUMMARY:Milwaukee Brewers @ Boston Red Sox (Brewers (MLB))
+DTSTART:20260406T224500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Boston Red Sox_2026-04-07T22:45Z
+SUMMARY:Milwaukee Brewers @ Boston Red Sox (Brewers (MLB))
+DTSTART:20260407T224500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Boston Red Sox_2026-04-08T17:35Z
+SUMMARY:Milwaukee Brewers @ Boston Red Sox (Brewers (MLB))
+DTSTART:20260408T173500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Washington Nationals_Milwaukee Brewers_2026-04-10T23:40Z
+SUMMARY:Washington Nationals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260410T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Washington Nationals_Milwaukee Brewers_2026-04-11T23:10Z
+SUMMARY:Washington Nationals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260411T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Washington Nationals_Milwaukee Brewers_2026-04-12T18:10Z
+SUMMARY:Washington Nationals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260412T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Toronto Blue Jays_Milwaukee Brewers_2026-04-14T23:40Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260414T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Toronto Blue Jays_Milwaukee Brewers_2026-04-15T23:40Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260415T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Toronto Blue Jays_Milwaukee Brewers_2026-04-16T17:40Z
+SUMMARY:Toronto Blue Jays @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260416T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Miami Marlins_2026-04-17T23:10Z
+SUMMARY:Milwaukee Brewers @ Miami Marlins (Brewers (MLB))
+DTSTART:20260417T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Miami Marlins_2026-04-18T20:10Z
+SUMMARY:Milwaukee Brewers @ Miami Marlins (Brewers (MLB))
+DTSTART:20260418T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Miami Marlins_2026-04-19T17:40Z
+SUMMARY:Milwaukee Brewers @ Miami Marlins (Brewers (MLB))
+DTSTART:20260419T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Detroit Tigers_2026-04-21T22:40Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers (Brewers (MLB))
+DTSTART:20260421T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Detroit Tigers_2026-04-22T22:40Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers (Brewers (MLB))
+DTSTART:20260422T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Detroit Tigers_2026-04-23T17:10Z
+SUMMARY:Milwaukee Brewers @ Detroit Tigers (Brewers (MLB))
+DTSTART:20260423T171000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-04-24T23:40Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260424T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-04-25T23:10Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260425T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-04-26T18:10Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260426T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Arizona Diamondbacks_Milwaukee Brewers_2026-04-28T23:40Z
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260428T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Arizona Diamondbacks_Milwaukee Brewers_2026-04-29T23:40Z
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260429T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Arizona Diamondbacks_Milwaukee Brewers_2026-04-30T17:40Z
+SUMMARY:Arizona Diamondbacks @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260430T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Washington Nationals_2026-05-01T22:45Z
+SUMMARY:Milwaukee Brewers @ Washington Nationals (Brewers (MLB))
+DTSTART:20260501T224500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Washington Nationals_2026-05-02T20:05Z
+SUMMARY:Milwaukee Brewers @ Washington Nationals (Brewers (MLB))
+DTSTART:20260502T200500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Washington Nationals_2026-05-03T17:35Z
+SUMMARY:Milwaukee Brewers @ Washington Nationals (Brewers (MLB))
+DTSTART:20260503T173500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-05-04T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260504T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-05-05T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260505T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-05-06T17:15Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260506T171500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Yankees_Milwaukee Brewers_2026-05-08T23:40Z
+SUMMARY:New York Yankees @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260508T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Yankees_Milwaukee Brewers_2026-05-09T23:10Z
+SUMMARY:New York Yankees @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260509T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Yankees_Milwaukee Brewers_2026-05-10T18:10Z
+SUMMARY:New York Yankees @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260510T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Diego Padres_Milwaukee Brewers_2026-05-12T23:40Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260512T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Diego Padres_Milwaukee Brewers_2026-05-13T23:40Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260513T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Diego Padres_Milwaukee Brewers_2026-05-14T17:40Z
+SUMMARY:San Diego Padres @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260514T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Minnesota Twins_2026-05-16T00:10Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins (Brewers (MLB))
+DTSTART:20260516T001000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Minnesota Twins_2026-05-16T23:10Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins (Brewers (MLB))
+DTSTART:20260516T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Minnesota Twins_2026-05-17T18:10Z
+SUMMARY:Milwaukee Brewers @ Minnesota Twins (Brewers (MLB))
+DTSTART:20260517T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-05-18T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260518T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-05-19T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260519T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-05-20T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260520T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Los Angeles Dodgers_Milwaukee Brewers_2026-05-22T23:40Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260522T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Los Angeles Dodgers_Milwaukee Brewers_2026-05-23T23:15Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260523T231500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Los Angeles Dodgers_Milwaukee Brewers_2026-05-24T18:10Z
+SUMMARY:Los Angeles Dodgers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260524T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-05-25T18:10Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260525T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-05-26T23:40Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260526T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-05-27T17:40Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260527T174000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Houston Astros_2026-05-30T00:10Z
+SUMMARY:Milwaukee Brewers @ Houston Astros (Brewers (MLB))
+DTSTART:20260530T001000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Houston Astros_2026-05-30T20:10Z
+SUMMARY:Milwaukee Brewers @ Houston Astros (Brewers (MLB))
+DTSTART:20260530T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Houston Astros_2026-05-31T18:10Z
+SUMMARY:Milwaukee Brewers @ Houston Astros (Brewers (MLB))
+DTSTART:20260531T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Francisco Giants_Milwaukee Brewers_2026-06-01T23:40Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260601T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Francisco Giants_Milwaukee Brewers_2026-06-02T23:40Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260602T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Francisco Giants_Milwaukee Brewers_2026-06-03T23:40Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260603T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:San Francisco Giants_Milwaukee Brewers_2026-06-04T18:10Z
+SUMMARY:San Francisco Giants @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260604T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Colorado Rockies_2026-06-06T00:40Z
+SUMMARY:Milwaukee Brewers @ Colorado Rockies (Brewers (MLB))
+DTSTART:20260606T004000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Colorado Rockies_2026-06-07T01:10Z
+SUMMARY:Milwaukee Brewers @ Colorado Rockies (Brewers (MLB))
+DTSTART:20260607T011000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Colorado Rockies_2026-06-07T19:10Z
+SUMMARY:Milwaukee Brewers @ Colorado Rockies (Brewers (MLB))
+DTSTART:20260607T191000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Athletics_2026-06-09T02:05Z
+SUMMARY:Milwaukee Brewers @ Athletics (Brewers (MLB))
+DTSTART:20260609T020500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Athletics_2026-06-10T02:05Z
+SUMMARY:Milwaukee Brewers @ Athletics (Brewers (MLB))
+DTSTART:20260610T020500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Athletics_2026-06-11T01:05Z
+SUMMARY:Milwaukee Brewers @ Athletics (Brewers (MLB))
+DTSTART:20260611T010500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Philadelphia Phillies_Milwaukee Brewers_2026-06-12T23:40Z
+SUMMARY:Philadelphia Phillies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260612T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Philadelphia Phillies_Milwaukee Brewers_2026-06-13T23:15Z
+SUMMARY:Philadelphia Phillies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260613T231500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Philadelphia Phillies_Milwaukee Brewers_2026-06-14T18:10Z
+SUMMARY:Philadelphia Phillies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260614T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cleveland Guardians_Milwaukee Brewers_2026-06-16T23:40Z
+SUMMARY:Cleveland Guardians @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260616T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cleveland Guardians_Milwaukee Brewers_2026-06-17T23:40Z
+SUMMARY:Cleveland Guardians @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260617T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cleveland Guardians_Milwaukee Brewers_2026-06-18T18:10Z
+SUMMARY:Cleveland Guardians @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260618T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Atlanta Braves_2026-06-19T23:15Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves (Brewers (MLB))
+DTSTART:20260619T231500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Atlanta Braves_2026-06-20T20:10Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves (Brewers (MLB))
+DTSTART:20260620T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Atlanta Braves_2026-06-21T17:35Z
+SUMMARY:Milwaukee Brewers @ Atlanta Braves (Brewers (MLB))
+DTSTART:20260621T173500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-06-22T23:10Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260622T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-06-23T23:10Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260623T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-06-24T23:10Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260624T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-06-26T23:40Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260626T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-06-27T23:10Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260627T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-06-28T18:10Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260628T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-06-29T23:40Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260629T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-06-30T23:40Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260630T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-07-02T00:10Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260702T001000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-07-02T18:10Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260702T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Arizona Diamondbacks_2026-07-04T01:40Z
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks (Brewers (MLB))
+DTSTART:20260704T014000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Arizona Diamondbacks_2026-07-05T01:40Z
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks (Brewers (MLB))
+DTSTART:20260705T014000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Arizona Diamondbacks_2026-07-05T20:10Z
+SUMMARY:Milwaukee Brewers @ Arizona Diamondbacks (Brewers (MLB))
+DTSTART:20260705T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-07-06T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260706T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-07-07T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260707T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-07-08T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260708T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_St. Louis Cardinals_2026-07-09T23:45Z
+SUMMARY:Milwaukee Brewers @ St. Louis Cardinals (Brewers (MLB))
+DTSTART:20260709T234500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-07-10T22:40Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260710T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-07-11T20:05Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260711T200500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-07-12T16:15Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260712T161500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Miami Marlins_Milwaukee Brewers_2026-07-17T23:40Z
+SUMMARY:Miami Marlins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260717T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Miami Marlins_Milwaukee Brewers_2026-07-18T20:10Z
+SUMMARY:Miami Marlins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260718T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Miami Marlins_Milwaukee Brewers_2026-07-19T18:10Z
+SUMMARY:Miami Marlins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260719T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Mets_Milwaukee Brewers_2026-07-20T23:40Z
+SUMMARY:New York Mets @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260720T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Mets_Milwaukee Brewers_2026-07-21T23:40Z
+SUMMARY:New York Mets @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260721T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:New York Mets_Milwaukee Brewers_2026-07-22T18:10Z
+SUMMARY:New York Mets @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260722T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Colorado Rockies_Milwaukee Brewers_2026-07-24T20:10Z
+SUMMARY:Colorado Rockies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260724T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Colorado Rockies_Milwaukee Brewers_2026-07-25T23:10Z
+SUMMARY:Colorado Rockies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260725T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Colorado Rockies_Milwaukee Brewers_2026-07-26T18:10Z
+SUMMARY:Colorado Rockies @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260726T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Francisco Giants_2026-07-28T01:45Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants (Brewers (MLB))
+DTSTART:20260728T014500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Francisco Giants_2026-07-29T01:45Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants (Brewers (MLB))
+DTSTART:20260729T014500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Francisco Giants_2026-07-29T19:45Z
+SUMMARY:Milwaukee Brewers @ San Francisco Giants (Brewers (MLB))
+DTSTART:20260729T194500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Angels_2026-08-01T01:38Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels (Brewers (MLB))
+DTSTART:20260801T013800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Angels_2026-08-02T01:38Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels (Brewers (MLB))
+DTSTART:20260802T013800Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Angels_2026-08-02T19:15Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Angels (Brewers (MLB))
+DTSTART:20260802T191500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-08-03T23:40Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260803T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-08-04T23:40Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260804T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-08-05T23:40Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260805T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Pittsburgh Pirates_Milwaukee Brewers_2026-08-06T18:10Z
+SUMMARY:Pittsburgh Pirates @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260806T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Minnesota Twins_Milwaukee Brewers_2026-08-07T23:40Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260807T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Minnesota Twins_Milwaukee Brewers_2026-08-08T23:10Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260808T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Minnesota Twins_Milwaukee Brewers_2026-08-09T18:10Z
+SUMMARY:Minnesota Twins @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260809T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Diego Padres_2026-08-11T01:40Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres (Brewers (MLB))
+DTSTART:20260811T014000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Diego Padres_2026-08-12T01:40Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres (Brewers (MLB))
+DTSTART:20260812T014000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_San Diego Padres_2026-08-12T20:10Z
+SUMMARY:Milwaukee Brewers @ San Diego Padres (Brewers (MLB))
+DTSTART:20260812T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Dodgers_2026-08-14T02:10Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers (Brewers (MLB))
+DTSTART:20260814T021000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Dodgers_2026-08-15T02:10Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers (Brewers (MLB))
+DTSTART:20260815T021000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Dodgers_2026-08-15T23:15Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers (Brewers (MLB))
+DTSTART:20260815T231500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Los Angeles Dodgers_2026-08-16T20:10Z
+SUMMARY:Milwaukee Brewers @ Los Angeles Dodgers (Brewers (MLB))
+DTSTART:20260816T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Seattle Mariners_Milwaukee Brewers_2026-08-18T23:40Z
+SUMMARY:Seattle Mariners @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260818T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Seattle Mariners_Milwaukee Brewers_2026-08-19T23:40Z
+SUMMARY:Seattle Mariners @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260819T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Seattle Mariners_Milwaukee Brewers_2026-08-20T18:10Z
+SUMMARY:Seattle Mariners @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260820T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Atlanta Braves_Milwaukee Brewers_2026-08-21T20:10Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260821T201000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Atlanta Braves_Milwaukee Brewers_2026-08-22T18:10Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260822T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Atlanta Braves_Milwaukee Brewers_2026-08-23T23:00Z
+SUMMARY:Atlanta Braves @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260823T230000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_New York Mets_2026-08-25T23:10Z
+SUMMARY:Milwaukee Brewers @ New York Mets (Brewers (MLB))
+DTSTART:20260825T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_New York Mets_2026-08-26T23:10Z
+SUMMARY:Milwaukee Brewers @ New York Mets (Brewers (MLB))
+DTSTART:20260826T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_New York Mets_2026-08-27T23:10Z
+SUMMARY:Milwaukee Brewers @ New York Mets (Brewers (MLB))
+DTSTART:20260827T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Texas Rangers_Milwaukee Brewers_2026-08-28T23:40Z
+SUMMARY:Texas Rangers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260828T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Texas Rangers_Milwaukee Brewers_2026-08-29T23:15Z
+SUMMARY:Texas Rangers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260829T231500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Texas Rangers_Milwaukee Brewers_2026-08-30T18:10Z
+SUMMARY:Texas Rangers @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260830T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-08-31T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260831T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-09-01T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260901T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-09-02T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260902T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Chicago Cubs_2026-09-03T23:40Z
+SUMMARY:Milwaukee Brewers @ Chicago Cubs (Brewers (MLB))
+DTSTART:20260903T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-09-04T22:10Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260904T221000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-09-05T22:40Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260905T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Cincinnati Reds_2026-09-06T16:10Z
+SUMMARY:Milwaukee Brewers @ Cincinnati Reds (Brewers (MLB))
+DTSTART:20260906T161000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-09-07T18:10Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260907T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-09-08T23:40Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260908T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Chicago Cubs_Milwaukee Brewers_2026-09-09T23:40Z
+SUMMARY:Chicago Cubs @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260909T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-09-11T23:40Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260911T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-09-12T23:10Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260912T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Cincinnati Reds_Milwaukee Brewers_2026-09-13T18:10Z
+SUMMARY:Cincinnati Reds @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260913T181000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-09-15T22:40Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260915T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-09-16T22:40Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260916T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Pittsburgh Pirates_2026-09-17T16:35Z
+SUMMARY:Milwaukee Brewers @ Pittsburgh Pirates (Brewers (MLB))
+DTSTART:20260917T163500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Baltimore Orioles_2026-09-18T23:05Z
+SUMMARY:Milwaukee Brewers @ Baltimore Orioles (Brewers (MLB))
+DTSTART:20260918T230500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Baltimore Orioles_2026-09-19T20:05Z
+SUMMARY:Milwaukee Brewers @ Baltimore Orioles (Brewers (MLB))
+DTSTART:20260919T200500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Baltimore Orioles_2026-09-20T23:20Z
+SUMMARY:Milwaukee Brewers @ Baltimore Orioles (Brewers (MLB))
+DTSTART:20260920T232000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Philadelphia Phillies_2026-09-22T22:40Z
+SUMMARY:Milwaukee Brewers @ Philadelphia Phillies (Brewers (MLB))
+DTSTART:20260922T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Philadelphia Phillies_2026-09-23T22:40Z
+SUMMARY:Milwaukee Brewers @ Philadelphia Phillies (Brewers (MLB))
+DTSTART:20260923T224000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:Milwaukee Brewers_Philadelphia Phillies_2026-09-24T22:05Z
+SUMMARY:Milwaukee Brewers @ Philadelphia Phillies (Brewers (MLB))
+DTSTART:20260924T220500Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-09-25T23:40Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260925T234000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-09-26T23:10Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260926T231000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:St. Louis Cardinals_Milwaukee Brewers_2026-09-27T19:10Z
+SUMMARY:St. Louis Cardinals @ Milwaukee Brewers (Brewers (MLB))
+DTSTART:20260927T191000Z
+END:VEVENT
+END:VCALENDAR
